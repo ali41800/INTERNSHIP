@@ -5,4 +5,3 @@ To SME = Mohd Kashif
 
 
 By= Mohd Ali khan
-$ git push -u origin master
